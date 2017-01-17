@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1456255921 source:/home/user/Dropbox/Data_Structures/Homeworks/Homework3/Assignment4/main.cpp
+	<iostream>
+	<string>
+	"CommunicationNetwork.h"
+	<stdlib.h>
+
+1455596757 /home/user/Dropbox/Data_Structures/Homeworks/Homework3/Assignment4/include/CommunicationNetwork.h
+	<iostream>
+
+1484088485 source:/home/user/Dropbox/Data_Structures/Homeworks/Homework3/Assignment4/src/CommunicationNetwork.cpp
+	"CommunicationNetwork.h"
+	<fstream>
+	<iostream>
+	<string>
+
